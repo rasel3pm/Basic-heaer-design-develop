@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.baner {
+    background: url(./baner.png) no-repeat top center fixed;
+    background-size: cover;
+    height: 100vh;
+}
+
+
+/* .container {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+} */
+
+.logo {
+    /* margin-top: 15px; */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul li {
+    padding: 15px;
+}
+
+ul li a {
+    color: rgb(104, 98, 97);
+    font-size: 20px;
+    font-family: roboto;
+}
+
+ul li a:hover {
+    text-decoration: none;
+}
